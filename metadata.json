@@ -1,0 +1,6 @@
+{
+  "name": "HisabPro – Monthly Expense Tracker",
+  "description": "A modern, professional personal finance management application to track daily expenses, monthly spending, income, savings, and remaining balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

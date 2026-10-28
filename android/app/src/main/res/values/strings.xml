@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HisabPro</string>
+    <string name="title_activity_main">HisabPro</string>
+    <string name="package_name">com.hisabpro.expensetracker</string>
+    <string name="custom_url_scheme">com.hisabpro.expensetracker</string>
+</resources>
